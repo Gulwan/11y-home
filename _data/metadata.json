@@ -1,0 +1,22 @@
+{
+    "title": "Gulwan LLC - Global E-commerce and Business Services",
+    "url": "https://gulwan.com/", 
+    "language": "en",
+    "description": "Gulwan LLC is your trusted partner in global e-commerce and business services. Specializing in high-quality products and expert trademark and VAT services.",
+    "img": "https://gulwan.com/img/logo.png", 
+    "feed": {
+        "subtitle": "Stay updated with the latest from Gulwan LLC - news, insights, and industry highlights.",
+        "filename": "feed.xml",
+        "path": "/feed/feed.xml",
+        "id": "https://gulwan.com/" 
+    },
+    "jsonfeed": {
+        "path": "/feed/feed.json",
+        "url": "https://gulwan.com/feed/feed.json" 
+    },
+    "author": {
+        "name": "Gulwan LLC",
+        "email": "info@gulwan.com",
+        "url": "https://gulwan.com/" 
+    }
+}
